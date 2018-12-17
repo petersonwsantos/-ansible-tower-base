@@ -1,5 +1,4 @@
 ---
-
-- src: gitlab.produbanbr.corp:ansible-tower/ansible-role-zabbix.git
-  scm: git
-  version: "v0.0.1"
+- src: https://9Gj23DXwnTSehZfW1yUz@gitlab.produbanbr.corp/ansible-tower/ansible-role-zabbix.git
+  name: ansible-role-zabbix
+  version: v0.0.1
