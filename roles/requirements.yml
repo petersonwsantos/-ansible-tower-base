@@ -4,5 +4,5 @@
   scm: git
   version: "v0.0.1"
 - src: git@gitlab.produbanbr.corp:ansible-tower/ansible-role-journal.git
-  name: ansible-role-zabbix
+  name: ansible-role-journal
   scm: git
