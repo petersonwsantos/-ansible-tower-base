@@ -1,8 +1,5 @@
 ---
-- name: (v0.0.1) Ensure set network configuration   
+- name: (v0.0.1) Ensure set - Openshift schedule true
   hosts: all
-  #   become: yes
   roles:
-    # - ansible-journal
-    - ansible-openshift-login
-    # - ansible-openshift-drain 
+    - ansible-openshift-schedule-true
