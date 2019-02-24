@@ -4,5 +4,5 @@
   #   become: yes
   roles:
     # - ansible-journal
-    - ansible-openshift-login
+    - ansible-openshift-schedule-true
     # - ansible-openshift-drain 
