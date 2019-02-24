@@ -3,3 +3,8 @@
   name: ansible-journal
   scm: git
 #  version: "v0.0.1"
+- src: github.com:petersonwsantos/ansible-openshift-login.git
+  name: ansible-openshift-login
+  scm: git
+#  version: "v0.0.1"
+
