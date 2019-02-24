@@ -1,7 +1,7 @@
 ---
 - name: (v0.0.1) Ensure set network configuration   
   hosts: all
-  become: yes
+  #   become: yes
   roles:
-    - ansible-journal
+    # - ansible-journal
     - ansible-openshift-login
